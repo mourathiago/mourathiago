@@ -14,7 +14,7 @@
 &nbsp;
 &nbsp;
 
-![Snake Animation](https://github.com/mourathiago/mourathiago/blog/output/github=contribution-grid-snake.svg)
+![Snake animation](https://github.com/mourathiago/mourathiago/blob/output/github-contribution-grid-snake.svg)
 
 &nbsp;
 &nbsp;
