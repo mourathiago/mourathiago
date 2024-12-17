@@ -53,7 +53,11 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![VMWare](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-
+##
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mourathiago}/count.svg" /></p> 
+<br></div>
 
 
 
