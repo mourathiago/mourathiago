@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/user-attachments/assets/41a61fb8-632f-483f-a0f2-56e3c5f1a7ce" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/user-attachments/assets/7c5b37dd-7cba-4ee0-9011-c5e3637257ff" />
 &nbsp;&nbsp;&nbsp;
 &nbsp;
 &nbsp;
@@ -14,7 +14,7 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mourathiago&theme=dark&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=mourathiago&theme=dark&show_icons=true" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mourathiago&show_icons=true&theme=dark&layout=compact" />
  </div>
 
