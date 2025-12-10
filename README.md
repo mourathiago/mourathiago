@@ -12,11 +12,8 @@
 > ***Information Security Analyst with experience in SOC (Security Operations Center) operations, Incident Response, and Cyber Threat Intelligence.***
 <br>
 
-<div>
-  <a href="https://github.com/mourathiago">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=mourathiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mourathiago&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+##
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mourathiago&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -63,9 +60,6 @@
 
 ##
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mourathiago}/count.svg" /></p> 
-<br></div>
 
 
 
